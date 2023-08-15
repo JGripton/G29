@@ -1,6 +1,6 @@
 # Pedal-to-Key/Mouse Program
 
-This script allows you to use Logitech G29 pedal presses to trigger mouse clicks or keyboard key presses.
+This script allows you to use Logitech G29 pedal presses to trigger mouse clicks or keyboard key presses. Disclaimer: Be cautious when using this script in online games as it could result in a ban.
 
 - [Configuration](#configuration)
 - [Running the Script](#running-the-script)
