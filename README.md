@@ -1,5 +1,3 @@
-```markdown
-
 Pedal-to-Key/Mouse Program
 This script allows you to use Logitech G29 pedal presses to trigger mouse clicks or keyboard key presses.
 
@@ -54,7 +52,7 @@ Verifying Installation:
 Open a new Command Prompt.
 Type `python --version` and press Enter. You should see the version number of Python displayed.
 Type `pip --version` and press Enter. You should see the version number of pip displayed.
-```
+
 
 
 
