@@ -1,0 +1,22 @@
+{
+    "sensitivity": 0.5,
+    "sleep_time": 0.01,
+    "accelerator": {
+        "enabled": true,
+        "action_type": "mouse",
+        "button": "left",
+        "key": "a"
+    },
+    "brake": {
+        "enabled": true,
+        "action_type": "keyboard",
+        "button": "middle",
+        "key": "o"
+    },
+    "clutch": {
+        "enabled": true,
+        "action_type": "mouse",
+        "button": "left",
+        "key": "space"
+    }
+}
